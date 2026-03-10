@@ -1,2 +1,2 @@
 def saludar(nombre):
-    return f"Saludos, {nombre}"
+    return f"Hola, {nombre}"
